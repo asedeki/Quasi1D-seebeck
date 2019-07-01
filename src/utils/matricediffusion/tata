@@ -1,0 +1,2 @@
+install:\n mv *.so ../../lib
+install:\n mv *.so ../../lib
