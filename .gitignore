@@ -4,3 +4,6 @@ __init__.py
 *.html
 setup.*
 __pycache__
+tmp
+tata
+Makefile
